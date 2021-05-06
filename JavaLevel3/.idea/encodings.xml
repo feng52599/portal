@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/example/goods/Computer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/example/goods/Good.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/example/goods/Graphics.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/example/goods/Keyboard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/example/purchase/CInput.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/example/purchase/Purchase.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/example/purchase/Suppliers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/base/CInput.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/base/Goods.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/base/Supply.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/goods/Clothing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/goods/Computer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/goods/InitGoods.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/purchase/Purchase.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/neusoft/javaclass/test/ListTest.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
